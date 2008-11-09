@@ -1,0 +1,45 @@
+App-ZofCMS-Plugin-ValidationLinks
+
+The module is a plugin for L<App::ZofCMS>. It's pretty useless unless you are like me: have
+a really bad memory on URIs and sick and tired of looking up all those links. The links are
+L<http://validator.w3.org/check?uri=referer> for (X)HTML and
+L<http://jigsaw.w3.org/css-validator/check/referer> for CSS.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Build.PL
+	./Build
+	./Build test
+	./Build install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc App::ZofCMS::Plugin::ValidationLinks
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=App-ZofCMS-Plugin-ValidationLinks
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/App-ZofCMS-Plugin-ValidationLinks
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/App-ZofCMS-Plugin-ValidationLinks
+
+    Search CPAN
+        http://search.cpan.org/dist/App-ZofCMS-Plugin-ValidationLinks
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 'Zoffix
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
