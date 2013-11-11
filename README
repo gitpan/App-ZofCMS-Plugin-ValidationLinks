@@ -1,7 +1,8 @@
 App-ZofCMS-Plugin-ValidationLinks
 
-The module is a plugin for L<App::ZofCMS>. It's pretty useless unless you are like me: have
-a really bad memory on URIs and sick and tired of looking up all those links. The links are
+The module is a plugin for L<App::ZofCMS>. It's pretty useless unless
+you are like me: have a really bad memory on URIs and sick and tired of
+looking up all those links. The links are
 L<http://validator.w3.org/check?uri=referer> for (X)HTML and
 L<http://jigsaw.w3.org/css-validator/check/referer> for CSS.
 
