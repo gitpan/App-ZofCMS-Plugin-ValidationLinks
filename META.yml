@@ -16,9 +16,9 @@ name: App-ZofCMS-Plugin-ValidationLinks
 provides:
   App::ZofCMS::Plugin::ValidationLinks:
     file: lib/App/ZofCMS/Plugin/ValidationLinks.pm
-    version: 0.0102
+    version: 0.0103
 requires:
   perl: 5.006
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.0102
+version: 0.0103

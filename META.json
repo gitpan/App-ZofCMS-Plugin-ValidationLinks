@@ -33,7 +33,7 @@
    "provides" : {
       "App::ZofCMS::Plugin::ValidationLinks" : {
          "file" : "lib/App/ZofCMS/Plugin/ValidationLinks.pm",
-         "version" : "0.0102"
+         "version" : "0.0103"
       }
    },
    "release_status" : "stable",
@@ -42,5 +42,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.0102"
+   "version" : "0.0103"
 }
